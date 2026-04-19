@@ -6,9 +6,7 @@
   <h3>Full-Stack Developer | Tech Enthusiast | Open to Collaboration</h3>
   
   <br>
-  <p>
-    <img src="https://komarev.com/ghpvc/?username=cuong-sadboi&color=F700FF" alt="Profile Views" />
-  </p>
+ 
   
 </div>
 
