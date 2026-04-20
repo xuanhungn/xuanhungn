@@ -3,7 +3,7 @@
   
 
   <h1>🌌 Welcome to my universe!</h1>
-  <h3>Full-Stack Developer | Tech Enthusiast | Open to Collaboration</h3>
+  <h3>Full-Stack Developer | Passionate About Clean Code & Performance Optimization</h3>
   
   <br>
  
