@@ -80,7 +80,7 @@
 
 ---
 
-### 📊 GitHub Activity Graph
+### 📊 GitHub Anime demo
 <!--header-->
 <table>
   <tr><td colspan="2"><a href="/README.md#-plugins">← Back to plugins index</a></td></tr>
