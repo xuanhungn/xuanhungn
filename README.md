@@ -2,7 +2,7 @@
 
   
   <h1> I'm hung </h1>
-  <h1>🌌 Welcome to my universe!</h1>
+  <h1>TRÙM CODE VIỆT NAM SIÊU CẤP VŨ TRỤ</h1>
   <h3>Full-Stack Developer | Passionate About Clean Code & Performance Optimization</h3>
   
   <br>
